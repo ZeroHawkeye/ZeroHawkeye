@@ -6,8 +6,6 @@
 
 Welcome to my Github page! I am ZeroHawkeye
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ZeroHawkeye&theme=tokyonight&show_icons=true"/>
