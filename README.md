@@ -87,33 +87,6 @@
   </table>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/github/stars/ZeroHawkeye/wordZero?style=for-the-badge&logo=github&color=yellow&labelColor=000000&label=⭐%20STARS" alt="Stars"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/forks/ZeroHawkeye/wordZero?style=for-the-badge&logo=github&color=green&labelColor=000000&label=🔀%20FORKS" alt="Forks"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/license/ZeroHawkeye/wordZero?style=for-the-badge&color=blue&labelColor=000000&label=📄%20LICENSE" alt="License"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/github/languages/top/ZeroHawkeye/wordZero?style=for-the-badge&logo=go&color=00ADD8&labelColor=000000&label=🚀%20GOLANG" alt="Language"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/repo-size/ZeroHawkeye/wordZero?style=for-the-badge&color=orange&labelColor=000000&label=📦%20SIZE" alt="Size"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/last-commit/ZeroHawkeye/wordZero?style=for-the-badge&color=red&labelColor=000000&label=🕒%20UPDATED" alt="Updated"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### 🎯 项目特色与技术亮点
 
 <div align="center">
@@ -441,7 +414,6 @@ graph LR
 ### 📊 技能成长轨迹
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_综合能力-81.25%-success?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/💪_技术深度-Expert-blue?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/🌟_学习能力-Excellent-brightgreen?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000000"/>
 </div>
