@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ZeroHawkeye&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+Golang+%26+React+专家;⚡+高性能后端架构师;🌟+开源项目贡献者;🚀+WordZero+核心开发者)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+Golang+%26+React+专家;⚡+高性能后端架构师)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
