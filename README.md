@@ -488,7 +488,7 @@ graph TB
       <td align="center" width="25%">
         <img width="80" height="80" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
         <h4>📧 商务合作</h4>
-        <a href="mailto:clown166997982@gmail.com">
+        <a href="mailto:166997982@qq.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
         </a>
         <p><i>项目合作 • 技术咨询</i></p>
