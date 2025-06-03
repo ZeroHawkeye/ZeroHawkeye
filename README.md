@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ZeroHawkeye&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+Golang+%26+Vue.js+专家;⚡+高性能后端架构师;🌟+开源项目贡献者;🚀+WordZero+核心开发者)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+Golang+%26+React+专家;⚡+高性能后端架构师;🌟+开源项目贡献者;🚀+WordZero+核心开发者)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -44,7 +44,7 @@
 
 **💼 专业标签：**
 - 🔭 **核心项目：** [WordZero](https://github.com/ZeroHawkeye/wordZero) - 革命性的Golang Word文档处理引擎
-- 🌱 **技术栈：** Golang • Vue.js • Redis • MySQL • MongoDB • Docker
+- 🌱 **技术栈：** Golang • React • Redis • MySQL • MongoDB • Docker
 - 🎯 **专业领域：** 高并发后端架构 • 文档处理算法 • 全栈Web开发 • 微服务设计
 - ⚡ **开源影响：** 169+ Stars • 8+ Forks • 活跃开源贡献者
 - 🌍 **协作方式：** 远程优先 • 敏捷开发 • 代码审查
@@ -63,31 +63,52 @@
 ### 🌟 WordZero - 下一代Golang文档处理引擎
 
 <a href="https://github.com/ZeroHawkeye/wordZero">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroHawkeye&repo=wordZero&theme=tokyonight&border_color=61dafb&border_radius=10" alt="WordZero"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroHawkeye&repo=wordZero&theme=tokyonight&border_color=61dafb&border_radius=10&cache_seconds=86400" alt="WordZero Repository Card"/>
 </a>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/github/stars/ZeroHawkeye/wordZero?style=for-the-badge&logo=github&color=yellow&labelColor=000000&label=⭐_STARS" alt="Stars"/>
+        <h4>🚀 WordZero</h4>
+        <p><strong>下一代Golang文档处理引擎</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+        </p>
+        <p>
+          <a href="https://github.com/ZeroHawkeye/wordZero">
+            <img src="https://img.shields.io/badge/查看项目-blue?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/ZeroHawkeye/wordZero?style=for-the-badge&logo=github&color=yellow&labelColor=000000&label=⭐%20STARS" alt="Stars"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/forks/ZeroHawkeye/wordZero?style=for-the-badge&logo=github&color=green&labelColor=000000&label=🔀_FORKS" alt="Forks"/>
+        <img src="https://img.shields.io/github/forks/ZeroHawkeye/wordZero?style=for-the-badge&logo=github&color=green&labelColor=000000&label=🔀%20FORKS" alt="Forks"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/license/ZeroHawkeye/wordZero?style=for-the-badge&color=blue&labelColor=000000&label=📄_LICENSE" alt="License"/>
+        <img src="https://img.shields.io/github/license/ZeroHawkeye/wordZero?style=for-the-badge&color=blue&labelColor=000000&label=📄%20LICENSE" alt="License"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/github/languages/top/ZeroHawkeye/wordZero?style=for-the-badge&logo=go&color=00ADD8&labelColor=000000&label=🚀_GOLANG" alt="Language"/>
+        <img src="https://img.shields.io/github/languages/top/ZeroHawkeye/wordZero?style=for-the-badge&logo=go&color=00ADD8&labelColor=000000&label=🚀%20GOLANG" alt="Language"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/repo-size/ZeroHawkeye/wordZero?style=for-the-badge&color=orange&labelColor=000000&label=📦_SIZE" alt="Size"/>
+        <img src="https://img.shields.io/github/repo-size/ZeroHawkeye/wordZero?style=for-the-badge&color=orange&labelColor=000000&label=📦%20SIZE" alt="Size"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/github/last-commit/ZeroHawkeye/wordZero?style=for-the-badge&color=red&labelColor=000000&label=🕒_UPDATED" alt="Updated"/>
+        <img src="https://img.shields.io/github/last-commit/ZeroHawkeye/wordZero?style=for-the-badge&color=red&labelColor=000000&label=🕒%20UPDATED" alt="Updated"/>
       </td>
     </tr>
   </table>
@@ -165,14 +186,14 @@ graph LR
 ### 🎨 前端星系
 <div align="center">
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000)
 
 **🎭 UI框架**
-![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&logo=element&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 </div>
       </td>
@@ -289,20 +310,143 @@ graph LR
 
 <div align="center">
 
-## 💫 技术雷达图
+## 💫 技术能力矩阵
 
-```mermaid
-radar
-    title ZeroHawkeye's Tech Radar
-    "Backend Development" : 0.9
-    "Frontend Development" : 0.8
-    "Database Design" : 0.85
-    "DevOps & Cloud" : 0.7
-    "Algorithm & DS" : 0.8
-    "System Architecture" : 0.85
-    "Open Source" : 0.9
-    "Team Leadership" : 0.75
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+
+<div align="center">
+
+### 🎯 核心技术栈精通度分析
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: white; margin-bottom: 15px;">🔥 后端开发</h3>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 90%; height: 8px; background: linear-gradient(90deg, #00ADD8, #61DAFB); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">90%</span>
+          </div>
+        </div>
+        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
+          <strong>Golang • Node.js • Python • 微服务架构</strong>
+        </div>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: white; margin-bottom: 15px;">🎨 前端开发</h3>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 80%; height: 8px; background: linear-gradient(90deg, #61DAFB, #F7DF1E); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">80%</span>
+          </div>
+        </div>
+        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
+          <strong>React • TypeScript • Next.js • 现代化UI</strong>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: white; margin-bottom: 15px;">🗄️ 数据库设计</h3>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 85%; height: 8px; background: linear-gradient(90deg, #F39C12, #E67E22); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">85%</span>
+          </div>
+        </div>
+        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
+          <strong>MySQL • MongoDB • Redis • 数据建模</strong>
+        </div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: white; margin-bottom: 15px;">☁️ DevOps运维</h3>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 70%; height: 8px; background: linear-gradient(90deg, #3498DB, #2980B9); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">70%</span>
+          </div>
+        </div>
+        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
+          <strong>Docker • Kubernetes • AWS • CI/CD</strong>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 🚀 专业技能雷达图
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: white; margin-bottom: 15px;">⚡ 算法&数据结构</h3>
+        <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 80%; height: 8px; background: linear-gradient(90deg, #E74C3C, #C0392B); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #FFD700; font-weight: bold; font-size: 14px;">80%</span>
+          </div>
+        </div>
+        <div style="color: rgba(255,255,255,0.9); font-size: 12px; margin-top: 10px;">
+          <strong>排序算法 • 树形结构 • 动态规划 • 图论</strong>
+        </div>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: #333; margin-bottom: 15px;">🏗️ 系统架构</h3>
+        <div style="background: rgba(0,0,0,0.1); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 85%; height: 8px; background: linear-gradient(90deg, #9B59B6, #8E44AD); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #8E44AD; font-weight: bold; font-size: 14px;">85%</span>
+          </div>
+        </div>
+        <div style="color: #555; font-size: 12px; margin-top: 10px;">
+          <strong>微服务 • 分布式 • 负载均衡 • 缓存策略</strong>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <div style="background: linear-gradient(135deg, #96fbc4 0%, #f9f047 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: #333; margin-bottom: 15px;">🌟 开源贡献</h3>
+        <div style="background: rgba(0,0,0,0.1); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 90%; height: 8px; background: linear-gradient(90deg, #2ECC71, #27AE60); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #27AE60; font-weight: bold; font-size: 14px;">90%</span>
+          </div>
+        </div>
+        <div style="color: #555; font-size: 12px; margin-top: 10px;">
+          <strong>GitHub活跃 • 项目维护 • 社区建设 • 技术分享</strong>
+        </div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 25px; border-radius: 15px; margin: 10px;">
+        <h3 style="color: #333; margin-bottom: 15px;">👥 团队领导</h3>
+        <div style="background: rgba(0,0,0,0.1); border-radius: 20px; padding: 5px; margin: 10px 0;">
+          <div style="width: 75%; height: 8px; background: linear-gradient(90deg, #FF6B35, #F39C12); border-radius: 10px; position: relative;">
+            <span style="position: absolute; right: -30px; top: -20px; color: #E67E22; font-weight: bold; font-size: 14px;">75%</span>
+          </div>
+        </div>
+        <div style="color: #555; font-size: 12px; margin-top: 10px;">
+          <strong>项目管理 • 团队协作 • 敏捷开发 • 技术指导</strong>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 📊 技能成长轨迹
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_综合能力-81.25%-success?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/💪_技术深度-Expert-blue?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/🌟_学习能力-Excellent-brightgreen?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000000"/>
+</div>
+
+</div>
 
 </div>
 
@@ -338,7 +482,7 @@ graph TB
     E --> O[Format Converter]
     
     style A fill:#00ADD8,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#4FC08D,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#61DAFB,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#F7DF1E,stroke:#000,stroke-width:2px,color:#000
     style D fill:#FF6B35,stroke:#fff,stroke-width:2px,color:#fff
     style E fill:#8A2BE2,stroke:#fff,stroke-width:2px,color:#fff
@@ -393,14 +537,6 @@ graph TB
         </a>
         <p><i>文档处理 • 技术创新</i></p>
       </td>
-      <td align="center" width="25%">
-        <img width="80" height="80" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"/>
-        <h4>💡 技术交流</h4>
-        <a href="https://github.com/ZeroHawkeye?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <p><i>知识分享 • 社区建设</i></p>
-      </td>
     </tr>
   </table>
 </div>
@@ -414,7 +550,7 @@ graph TB
 
 **🎯 合作方向**
 - 🔥 **Golang生态建设** - 高性能后端服务开发
-- 🎨 **Vue.js前端创新** - 现代化用户界面设计  
+- 🎨 **React前端创新** - 现代化用户界面设计  
 - 📄 **文档处理技术** - 办公自动化解决方案
 - 🌐 **开源项目贡献** - 推动技术社区发展
 - 🚀 **技术分享交流** - 知识传播与学习成长
