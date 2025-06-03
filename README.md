@@ -558,6 +558,4 @@ graph TB
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-**📅 最后更新:** 2024年12月 | **🔢 版本:** v2.0.0 | **💖 用心制作**
-
 </div>
